@@ -1,0 +1,171 @@
+#==================================================
+#Material list
+#This file has been created by PoseRay v3.13.29.645
+#3D model to POV-Ray/Moray Converter.
+#Author: FlyerX
+#Email: flyerx_2000@yahoo.com
+#Web: https://sites.google.com/site/poseray/
+#==================================================
+ 
+#==================================================
+newmtl Black
+Ns 2.4999999627471
+Ka 0 0 0
+Kd 0.180392156862745 0.192156862745098 0.196078431372549
+Ks 0 0 0
+d 1
+#Ka2 0 0 0
+#Ks2 0 0 0
+#Ns2 100
+#r 0
+#r2 0
+#blend 0
+#cell_hi
+#ref_fresnel 1.33
+#fake_fresnel_power 8
+#fake_fresnel_strength 0.5
+#sslt 0
+#interp 0 0 0 0
+#gamma default
+#gammacolor srgb
+#diffuse 0.6
+ 
+#==================================================
+newmtl White
+Ns 2.4999999627471
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+#Ka2 0 0 0
+#Ks2 0 0 0
+#Ns2 100
+#r 0
+#r2 0
+#blend 0
+#cell_hi
+#ref_fresnel 1.33
+#fake_fresnel_power 8
+#fake_fresnel_strength 0.5
+#sslt 0
+#interp 0 0 0 0
+#gamma default
+#gammacolor srgb
+#diffuse 0.6
+ 
+#==================================================
+newmtl default
+Ns 2.4999999627471
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+#Ka2 0 0 0
+#Ks2 0 0 0
+#Ns2 100
+#r 0
+#r2 0
+#blend 0
+#cell_hi
+#ref_fresnel 1.33
+#fake_fresnel_power 8
+#fake_fresnel_strength 0.5
+#sslt 0
+#interp 0 0 0 0
+#gamma default
+#gammacolor srgb
+#diffuse 0.6
+ 
+#==================================================
+newmtl GUM
+Ns 2.4999999627471
+Ka 0 0 0
+Kd 0.290196078431373 0.286274509803922 0.27843137254902
+Ks 0 0 0
+d 1
+#Ka2 0 0 0
+#Ks2 0 0 0
+#Ns2 100
+#r 0
+#r2 0
+#blend 0
+#cell_hi
+#ref_fresnel 1.33
+#fake_fresnel_power 8
+#fake_fresnel_strength 0.5
+#sslt 0
+#interp 0 0 0 0
+#gamma default
+#gammacolor srgb
+#diffuse 0.6
+ 
+#==================================================
+newmtl Car_wheel
+Ns 2.4999999627471
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+map_Kd D:\projects\MAOKG\lab5\source_folder\car\Car_wheel.png
+d 1
+#Ka2 0 0 0
+#Ks2 0 0 0
+#Ns2 100
+#r 0
+#r2 0
+#blend 0
+#cell_hi
+#ref_fresnel 1.33
+#fake_fresnel_power 8
+#fake_fresnel_strength 0.5
+#sslt 0
+#interp 0 0 0 0
+#gamma default
+#gammacolor srgb
+#diffuse 0.6
+ 
+#==================================================
+newmtl Spoiler
+Ns 2.4999999627471
+Ka 0 0 0
+Kd 1 0.694117647058824 0.407843137254902
+Ks 0 0 0
+d 1
+#Ka2 0 0 0
+#Ks2 0 0 0
+#Ns2 100
+#r 0
+#r2 0
+#blend 0
+#cell_hi
+#ref_fresnel 1.33
+#fake_fresnel_power 8
+#fake_fresnel_strength 0.5
+#sslt 0
+#interp 0 0 0 0
+#gamma default
+#gammacolor srgb
+#diffuse 0.6
+ 
+#==================================================
+newmtl Glass
+Ns 100.000002235174
+Ka 0 0 0
+Kd 1 0.482352941176471 0.109803921568627
+Ks 0.290196078431373 0.290196078431373 0.290196078431373
+d 1
+#Ka2 0 0 0
+#Ks2 0 0 0
+#Ns2 100
+#r 0
+#r2 0
+#blend 0
+#cell_hi
+#ref_fresnel 1.33
+#fake_fresnel_power 8
+#fake_fresnel_strength 0.5
+#sslt 0
+#interp 0 0 0 0
+#gamma default
+#gammacolor srgb
+#diffuse 0.6
+ 
